@@ -4,7 +4,7 @@ This is a simple demo of Fetch AI's agent framework.
 
 ## Steps to run the demo
 
-0. Make sure you have python3.9 or later installed.
+0. Make sure you have python3.9 or later installed. Check using `python --version`.
 1. Clone this repository
 2. Install poetry by running `pip install poetry`
 3. Recommended: Run `poetry config virtualenvs.in-project true` to create a virtual environment in the project directory
